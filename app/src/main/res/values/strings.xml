@@ -1,0 +1,1683 @@
+<resources>
+    <string name="app_name">Day4</string>
+
+    <string-array name="a_related">
+        <item>Affection \n স্নেহ</item>
+        <item>Arched \n নমিত</item>
+        <item>About \n বিষয়ে</item>
+        <item>Angle \n কোণ</item>
+        <item>Arch \n খিলান</item>
+        <item>Arm \n বাহু, হাত</item>
+        <item>Army \n ফৌজ, সৈন্যবাহিনী</item>
+        <item>Across \n আড়াআড়ি</item>
+        <item>Almost \n প্রায়, কাছাকাছি</item>
+        <item>As \n যথা, তত</item>
+        <item>After \n পরে</item>
+        <item>All \n সব, সমস্ত</item>
+        <item>Any \n কোন কিছু</item>
+        <item>Against \n প্রতিকূলে</item>
+        <item>At \n প্রতি, নিকট</item>
+        <item>Again \n আবার, পুনরায়</item>
+        <item>Account \n গণনা, হিসাব</item>
+        <item>Act \n কর্ম, ক্রিয়া</item>
+        <item>Addition \n যোগ প্রক্রিয়া</item>
+        <item>Adjustment \n মানিয়ে নেয়া</item>
+        <item>Advertisement \n বিজ্ঞাপন</item>
+        <item>Agreement \n চুক্তি, মতৈক্য</item>
+        <item>Air \n বায়ু, বাতাস</item>
+        <item>Amount \n সমষ্টি, পরিমাণ</item>
+        <item>Amusement \n আমোদপ্রমোদ</item>
+        <item>Animal \n প্রাণী, জীব</item>
+        <item>Apparatus \n যন্ত্রপাতি</item>
+        <item>Answer \n উত্তর, জবাব</item>
+        <item>Approval \n সমর্থন, অনুমোদন</item>
+        <item>Argument \n যুক্তি, তর্কবিতর্ক</item>
+        <item>Art \n শিল্প, কলা-কৌশল</item>
+        <item>Attack \n আক্রমণ করা</item>
+        <item>Attempt \n উদ্যোগ নেওয়া</item>
+        <item>Attention \n মনোযোগ দেওয়া</item>
+        <item>Among \n অনেকের বা বহুর মধ্যে</item>
+        <item>Attraction \n আকর্ষণ</item>
+        <item>Authority \n কর্তৃত্ব, অধিকার</item>
+        <item>Actuary \n নিবন্ধক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Advertisement \n বিজ্ঞাপন</item>
+        <item>Assessor \n কর নির্ধারক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Abbe \n ফরাসী ধর্মযাজক</item>
+    </string-array>
+
+    <string-array name="b_related">
+        <item>Blamestorming \n দোষারপ</item>
+        <item>Bureaucracy \n আমলাতন্ত্র</item>
+        <item>Back \n পিঠ, পশ্চাদ্দিক</item>
+        <item>Balance \n ভারসাম্য</item>
+        <item>Body \n দেহ, মূল কাঠামো</item>
+        <item>Blow \n বায়ু প্রবাহ</item>
+        <item>Blood \n রক্ত, আত্মীয়</item>
+        <item>Bite \n কামড়ানো</item>
+        <item>Book \n বই</item>
+        <item>Bone \n অস্থি, দেহ</item>
+        <item>Boat \n নৌকা, জাহাজ</item>
+        <item>Board \n কাঠের তক্তা, পাটাতন</item>
+        <item>Blade \n ছুরি, তরোয়াল</item>
+        <item>Bird \n পাখি</item>
+        <item>Bit \n কিছুক্ষণ, কামড়</item>
+        <item>Bee \n মৌমাছি</item>
+        <item>Bed \n বিছানা, খাট</item>
+        <item>Bath \n স্নান</item>
+        <item>Basket \n ঝুড়ি, সাজি</item>
+        <item>Bag \n থলি, ঝুলি</item>
+        <item>Baby \n শিশু, বাচ্চা</item>
+        <item>Bridge \n সেতু, পুল</item>
+        <item>Brick \n ইট</item>
+        <item>Branch \n বৃক্ষশাখা</item>
+        <item>Brake \n ব্রেক, বাধা</item>
+        <item>Brain \n মস্তিষ্ক, মগজ</item>
+        <item>Bottle \n বোতল</item>
+        <item>Birth \n জন্ম</item>
+        <item>Belief \n বিশ্বাস, ধারণা</item>
+        <item>Behaviour \n চালচলন</item>
+        <item>Base \n ভিত্তি, ঘাঁটি</item>
+        <item>Brass \n পিতল, টাকাপয়সা</item>
+        <item>Bread \n রুটি, পাউরুটি</item>
+        <item>Breath \n নিঃশ্বাস-প্রঃশ্বাস</item>
+        <item>Brother \n ভাই, ভ্রাতা</item>
+        <item>Building \n অট্রালিকা</item>
+        <item>Burn \n পোড়ানো</item>
+        <item>Burst \n বিস্ফোরিত হওয়া</item>
+        <item>Business \n ব্যবসা</item>
+        <item>Butter \n মাখন</item>
+        <item>Because \n যেহেতু, কারণ</item>
+        <item>But \n কিন্তু, তবে</item>
+        <item>Before \n সম্মুখে, আগে</item>
+        <item>Between \n মধ্যবর্তী</item>
+        <item>By \n কাছে, পাশে</item>
+        <item>Be \n হত্তয়া, থাকা</item>
+        <item>Bland \n স্নিগ্ধ</item>
+        <item>Bent \n নমিত</item>
+    </string-array>
+
+    <string-array name="c_related">
+        <item>Cashier \n কোষাধ্যক্ষ</item>
+        <item>Claim \n অধিকার</item>
+        <item>Contract \n চুক্তিবদ্ধ করা</item>
+        <item>Come \n আসা, হওয়া</item>
+        <item>Care \n যত্ন, সতর্কতা</item>
+        <item>Cause \n কারণ, উৎপাদক</item>
+        <item>Chalk \n চুনাপাথর</item>
+        <item>Card \n তাস, পত্র</item>
+        <item>Chest \n বুক</item>
+        <item>Church \n গির্জা, চার্চ</item>
+        <item>Circle \n বৃত্ত, বেষ্টনী</item>
+        <item>Clock \n দেওয়াল-ঘড়ি</item>
+        <item>Cloud \n মেঘ, নীরদ</item>
+        <item>Chance \n সুযোগ, সৌভাগ্য</item>
+        <item>Change \n পরিবর্তন করা</item>
+        <item>Cloth \n বস্ত্র, কাপড়</item>
+        <item>Coal \n কয়লা, অঙ্গার</item>
+        <item>Colour \n বর্ণ, রঙ</item>
+        <item>Comfort \n স্বস্তি, সুখ</item>
+        <item>Committee \n সমিতি, সভা</item>
+        <item>Company \n সঙ্গ, জনসমষ্টি</item>
+        <item>Comparison \n তুলনা, উপমা্</item>
+        <item>Competition \n প্রতিযোগিতা</item>
+        <item>Condition \n শর্ত, অবস্থা</item>
+        <item>Connection \n সংযোগ, যোজন</item>
+        <item>Costly \n ব্যয়বহুল</item>
+        <item>Control \n নিয়ন্ত্রণের ক্ষমতা</item>
+        <item>Cook \n রান্না করা</item>
+        <item>Copper \n তামা, তামার পাত্র</item>
+        <item>Copy \n অনুলিপি, নকল</item>
+        <item>Cork \n কর্ক, বোতলের ছিপি</item>
+        <item>Cotton \n তুলা, সূতিবস্ত্র</item>
+        <item>Cough \n কাশা, কাশি</item>
+        <item>Country \n দেশ, বাসভূমি</item>
+        <item>Cover \n চাপা দেওয়া</item>
+        <item>Crack \n চিড়, ফাটল</item>
+        <item>Credit \n বিশ্বাস, আস্থা</item>
+        <item>Crime \n দণ্ডনীয় অপরাধ</item>
+        <item>Crush \n চূর্ণ করা, দমন করা</item>
+        <item>Cry \n চিৎকার করা , কাঁদা</item>
+        <item>Current \n প্রচলিত, চলিত</item>
+        <item>Curve \n বাঁক, বক্ররেখা</item>
+    </string-array>
+
+    <string-array name="d_related">
+        <item>Damage \n ক্ষতি, লোকসান</item>
+        <item>Danger \n বিপদ, ঝুঁকি</item>
+        <item>Daughter \n কন্যা-সন্তান</item>
+        <item>Day \n দিন</item>
+        <item>Death \n মৃত্যু, মরণ</item>
+        <item>Debt \n ঋণ, দায়</item>
+        <item>Decision \n সিদ্ধান্ত, নিষ্পত্তি</item>
+        <item>Degree \n কোণ, উঞ্চতা</item>
+        <item>Design \n নকশা আকা</item>
+        <item>Desire \n ইচ্ছা করা</item>
+        <item>Destruction \ ধ্বংস, বিনাশ</item>
+        <item>Detail \n পুঙ্খানুপুঙ্খ, বিশদ</item>
+        <item>Development \n উন্নয়ন, উন্নতি</item>
+        <item>Digestion \n পরিপাক, হজম</item>
+        <item>Direction \n দিক, গতিপথ</item>
+        <item>Discovery \n আবিষ্কার, উদ্ঘাটন</item>
+        <item>Discussion \n আলোচনা</item>
+        <item>Disease \n অসুখ, ব্যাধি</item>
+        <item>Disgust \n ঘৃণা, বিরক্তি</item>
+        <item>Distance \n ব্যবধান, দূরত্ব</item>
+        <item>Distribution \n বিতরণ, বন্টন</item>
+        <item>Division \n ভাগ, বিভাগ</item>
+        <item>Doubt \n অবিশ্বাস, সন্দিহান</item>
+        <item>Drink \n পান করা</item>
+        <item>Driving \n পরিচালনা</item>
+        <item>Drop \n বিন্দু, কণামাত্র</item>
+        <item>Do \n করা</item>
+        <item>Down \n নীচে, নিম্নে</item>
+        <item>Dust \n ধূলিকণা, গুড়া</item>
+        <item>Decent \n শালীন</item>
+        <item>Dear-bought \n মহার্ঘ</item>
+    </string-array>
+
+    <string-array name="e_related">
+        <item>Earth \n পৃথিবী, জমি</item>
+        <item>Edge \n কিনারা, প্রান্ত</item>
+        <item>Ear \n কান, কর্ণ</item>
+        <item>East \n পূর্বদিক</item>
+        <item>Enough \n পর্যাপ্ত, যথেষ্ট</item>
+        <item>Even \n সমান, সমতল</item>
+        <item>Every \n প্রত্যেক</item>
+        <item>Education \n শিক্ষা</item>
+        <item>Effect \n কাজের ফলাফল</item>
+        <item>End \n প্রান্ত, শেষ</item>
+        <item>Error \n ভুল, ভ্রান্তি</item>
+        <item>Event \n ঘটনা, ফল</item>
+        <item>Example \n দৃষ্টান্ত, উদাহরণ</item>
+        <item>Ever \n সর্বদা, চিরকাল</item>
+        <item>Exchange \n বিনিময় করা, পণ্যবিনিময়</item>
+        <item>Existence \n অস্থিত্ব, বিদ্যমানতা</item>
+        <item>Expansion \n বিস্তার, সম্প্রসারণ</item>
+        <item>Experience \n অভিজ্ঞতা</item>
+        <item>Expert \n দক্ষ, অভিজ্ঞ</item>
+        <item>Egg \n ডিম</item>
+        <item>Engine \n এঞ্জিন</item>
+        <item>Eye \n চুক্ষ, নেত্র</item>
+    </string-array>
+
+    <string-array name="f_related">
+        <item>Face \n মুখ, মুখমণ্ডল</item>
+        <item>Feather \n পাখির পালক</item>
+        <item>Finger \n আঙুল, পুলিশ</item>
+        <item>Flag \n পতাকা</item>
+        <item>Floor \n মেঝে, সমতল ক্ষেত্র</item>
+        <item>Fly \n মাছি, মক্ষী</item>
+        <item>Frame \n গঠন, কাঠামো</item>
+        <item>Fact \n যা ঘটেছে, প্রকৃত ঘটনা</item>
+        <item>Fall \n ঝরে পড়া, পতন ঘটা</item>
+        <item>Family \n পরিবার, সংসার</item>
+        <item>Father \n পিতা, বাবা</item>
+        <item>Far \n দূর, দূরবর্তী</item>
+        <item>Fear \n ভয়, ভীতি , আতঙ্ক</item>
+        <item>Feeling \n স্পর্শানুভূতি, রুচি</item>
+        <item>Fiction \n গল্প, বানান গল্প</item>
+        <item>Field \n মাঠ, ময়দান</item>
+        <item>Fight \n লড়াই, সংগ্রাম</item>
+        <item>Fruit \n ফল, ফলমূল</item>
+        <item>Fire \n আগুন, শিখা</item>
+        <item>Flame \n আগুনের শিখা</item>
+        <item>Flight \n আকাশ পথে গমন</item>
+        <item>Flower \n ফুল, পুস্প</item>
+        <item>Fold \n ভাঁজ, ভাঁজ করা</item>
+        <item>Food \n খাদ্যদ্রব্য, খাবার জিনিস</item>
+        <item>Force \n বল, শক্তি</item>
+        <item>Form \n আকার গঠন, কাঠামো</item>
+        <item>Front \n সামনে, সম্মুখভাগে</item>
+        <item>Friend \n বন্ধু</item>
+        <item>Forward \n সম্মুখস্থ, অগ্রবর্তী</item>
+        <item>Fitting \n মানানসই</item>
+        <item>For \n জন্য, অনুরোধে</item>
+        <item>From \n থেকে, হতে</item>
+        <item>Fondness \n অনুরাগ</item>
+    </string-array>
+
+    <string-array name="g_related">
+        <item>Grip \n দৃঢ়মুষ্টি</item>
+        <item>Go \n চলা, যাওয়া</item>
+        <item>Gold \n স্বর্ণ, সোনা</item>
+        <item>Garden \n উদ্যান, বাগিচা</item>
+        <item>Glass \n কাঁচ, আয়না</item>
+        <item>Government \n সরকার, শাসন</item>
+        <item>Grain \n শস্য, শস্যের দানা</item>
+        <item>Grass \n ঘাস, তৃণ</item>
+        <item>Group \n দল, পুঞ্জ</item>
+        <item>Growth \n বৃদ্ধি, বিকাশ</item>
+        <item>Guide \n পথ প্রদর্শন করা</item>
+        <item>Gentle \n ভদ্র</item>
+        <item>Get \n পাওয়া, অর্জন করা</item>
+        <item>Give \n দান করা, দিয়ে দেওয়া</item>
+        <item>Go \ চলা, যাওয়া</item>
+        <item>Glove \n দস্তানা, করত্রাণ</item>
+        <item>Goat \n ছাগল, ছাগ</item>
+        <item>Gun \n কামান, বন্দুক</item>
+    </string-array>
+
+    <string-array name="h_related">
+        <item>Hammer \n হাতুড়ি</item>
+        <item>Hat \n টুপি</item>
+        <item>Heart \n হৃদয়, মন</item>
+        <item>Horn \n পশুশৃঙ্গ, শিঙ</item>
+        <item>Hair \n চুল, লোম</item>
+        <item>Humble \n নম্র</item>
+        <item>Here \n এইস্থানে, এখানে</item>
+        <item>Have\n অধিকারে পাওয়া</item>
+        <item>Harbour \n পোতাশ্রয়, আশ্রয় দেওয়া</item>
+        <item>Harmony \n সাদৃশ্য, সঙ্গতি</item>
+        <item>Hate \n ঘৃণা করা</item>
+        <item>Hearing \n শ্রবণ, শ্রবণ-শক্তি</item>
+        <item>Heat \n তাপ, উত্তাপ</item>
+        <item>Help \n সাহায্য করা</item>
+        <item>History \n ঘটনা-বিবরণ</item>
+        <item>Hole \n গর্ত, কোটর</item>
+        <item>Hope \n বিশ্বাস,পূর্ব অনুমান</item>
+        <item>Hour \n ঘণ্টা</item>
+        <item>How \n কিভাবে</item>
+        <item>Humour \n কৌতুক, মেজাজ</item>
+    </string-array>
+
+    <string-array name="i_related">
+        <item>Infringing \n অনধিকারপ্রবেশকারী</item>
+        <item>Inclination \n বাঁক</item>
+        <item>If \n যদি, যদ্যপি</item>
+        <item>Island \n জলবেষ্টিত ভুখণ্ড, দ্বীপ</item>
+        <item>In \n ভিতরে, মধ্যে</item>
+        <item>Ice \n বরফ, জমাট বাঁধান</item>
+        <item>Idea \n ধারণা, ভাব</item>
+        <item>Impulse \n ঝোক, কর্মপ্রেরনা</item>
+        <item>Increase \n বর্ধিত করা</item>
+        <item>Industry \n শ্রমশিল্প, শিল্প</item>
+        <item>Ink \n কালি</item>
+        <item>Insect \n কীট, পতঙ্গ</item>
+        <item>Instrument \n যন্ত্র</item>
+        <item>Insurance \n বীমা</item>
+        <item>Interest \n সুদ, স্বার্থ</item>
+        <item>Invention \n উদ্ভাবন, উদ্ভাবিত বস্তু</item>
+        <item>Iron \n লোহা, ইস্তিরি</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="j_related">
+        <item>Jelly \n ফলের মোরব্বা</item>
+        <item>Join \n সংযুক্ত করা</item>
+        <item>Journey \n যাত্রা, ভ্রমণ</item>
+        <item>Judge \n বিচারপতি</item>
+        <item>Jump \n ঝাঁপ দেওয়া</item>
+        <item>Judge \n বিচারপতি</item>
+        <item>Lead \n নেতৃত্ব</item>
+        <item>Law \n নিয়ম, আইন</item>
+        <item>Secretary \n সচিব, সম্পাদক</item>
+        <item>Punishment \n শাস্তি, দণ্ড</item>
+        <item>Merchandise \n পণ্যদ্রব্য</item>
+        <item>Verdict \n নির্ণয়, রায়</item>
+        <item>Unanimous \n সর্বসম্মত</item>
+        <item>Trail \n পদাঙ্ক অনুসরণ</item>
+        <item>Stipulate \n চুক্তি করা</item>
+        <item>Speculate \n গঠন করা</item>
+        <item>Statement \n লিখিত বিবৃতি</item>
+        <item>Sue \n নালিশ করা</item>
+        <item>Lawsuit \n মকদ্দমা</item>
+        <item>Solicitor \n আইনজ্ঞ/প্রার্থী</item>
+        <item>Scam \n প্রতারণামূলক কাজ</item>
+        <item>Observation \n পর্যবেক্ষণ</item>
+        <item>Opinion \n মত, বিবেচনা</item>
+        <item>Record \n লিখিত বিবরণ</item>
+        <item>Representative \n প্রতিনিধি</item>
+        <item>Reward \n প্রতিদান দেওয়া</item>
+        <item>Rub \n ঘর্ষণ করা</item>
+        <item>Rule \n শাসন, নিয়ম, প্রথা</item>
+        <item>Solicitor \n আইনজ্ঞ</item>
+    </string-array>
+
+    <string-array name="k_related">
+        <item>Kick \n লাথি মারা, পদাঘাত করা</item>
+        <item>Kiss \n চুম্বন করা</item>
+        <item>Knowledge \n জ্ঞান</item>
+        <item>Keep \n রাখা, ধরা</item>
+        <item>Key \n চাবি, কুঞ্জিকা</item>
+        <item>Knee \n হাঁটু, জানু</item>
+        <item>Knife \ ছুরি, ছুরিকা</item>
+        <item>Quality \n শ্রেষ্ঠত্বের বা উত্কর্ষের মাত্রা</item>
+        <item>Question \n প্রশ্ন, জিজ্ঞাসা</item>
+    </string-array>
+
+    <string-array name="l_related">
+        <item>Linen \n শণজাত</item>
+        <item>Leaf \n গাছের পাতা</item>
+        <item>Leg \n পা, পদ</item>
+        <item>Library \n গ্রন্থাগার, লাইব্রেরি</item>
+        <item>Line n রেখা, লাইন</item>
+        <item>Lip \n ঠোঁট</item>
+        <item>Let \n কোনো কিছু করতে দেওয়া</item>
+        <item>Little \n ছোট, অল্প</item>
+        <item>Level \n সমভূমি</item>
+        <item>Letter \ বর্ণ, চিঠি</item>
+        <item>Leather \n পাকা চামড়া</item>
+        <item>Learning \n জ্ঞান, শিক্ষা</item>
+        <item>Lead \n এগিয়ে থাকা, নেতৃত্ব</item>
+        <item>Law \n নিয়ম, বিধি</item>
+        <item>Laugh \n হাসা, উপহাস করা</item>
+        <item>Lead \n এগিয়ে থাকা, নেতৃত্ব</item>
+        <item>Law \n নিয়ম, বিধি</item>
+        <item>Laugh \n হাসা, উপহাস করা</item>
+        <item>Language \n ভাষা</item>
+        <item>Land \n ভূমি</item>
+        <item>Love \n প্রেম, ভালবাসা</item>
+        <item>Loss \n ক্ষতি, হ্রাস</item>
+        <item>Look \n তাকান, দেখা</item>
+        <item>List \n তালিকা, ফর্দ</item>
+        <item>Liquid \n তরল পদার্থ</item>
+        <item>Limit \n সীমা, গণ্ডি</item>
+        <item>Light \n আলো, জ্যোতি</item>
+        <item>Lift \n উন্নত করা, ওঠানো</item>
+    </string-array>
+
+    <string-array name="m_related">
+        <item>Metal \n ধাতু</item>
+        <item>Make \n সৃষ্টি করা, তৈরি করা</item>
+        <item>May \n পারা</item>
+        <item>Much \n প্রচুর, অনেক</item>
+        <item>Machine \n যন্ত্র, মেশিন</item>
+        <item>Manager \n পরিচালক, ব্যবস্থাপক</item>
+        <item>Market \n বাজার, হাট</item>
+        <item>Man \n মানুষ</item>
+        <item>Mark \n দাগ, চিহ্ন</item>
+        <item>Mass \n পিন্ড, দলা</item>
+        <item>Meal \n আহার্য, ভোজন</item>
+        <item>Measure \n আকার, পরিমাপ</item>
+        <item>Meat \n মাংস</item>
+        <item>Meeting \n সভা</item>
+        <item>Memory \n স্মৃতিশক্তি, স্মরণকাল</item>
+        <item>Middle \n মধ্যবর্তী, মাঝামাঝি</item>
+        <item>Milk \n দুধ, দুগ্ধ</item>
+        <item>Mind \n মন, স্মৃতি</item>
+        <item>Mine \n আমার, খনি</item>
+        <item>Minute \n মিনিট</item>
+        <item>Mist \n কুয়াশা</item>
+        <item>Money \n টাকাকড়ি, অর্থ</item>
+        <item>Month \n মাস</item>
+        <item>Morning \n সকাল</item>
+        <item>Mother \ মা, মাতা</item>
+        <item>Motion \n গতি, চলনভঙ্গী</item>
+        <item>Mountain \n পর্বত</item>
+        <item>Move \n স্থান পরিবর্তন করা</item>
+        <item>Music \n সঙ্গীত, সঙ্গীত বিদ্যা</item>
+        <item>Muscle \n পেশী, মাংসপেশী</item>
+    </string-array>
+
+    <string-array name="n_related">
+        <item>Nerve \n নার্ভ, স্নায়ু</item>
+        <item>Name \n নাম সংজ্ঞা</item>
+        <item>Nation \n জাতি, গোষ্ঠী</item>
+        <item>Need \n প্রয়োজন, অভাব</item>
+        <item>News \n সংবাদ, সমাচার</item>
+        <item>Night \n রাত, রাত্রি</item>
+        <item>Noise \n উচচ ও বিরক্তিকর শব্দ</item>
+        <item>Note \n চিরকুট, টীকা</item>
+        <item>Number \n সংখ্যা, অঙ্ক</item>
+        <item>North \n উত্তরদিক</item>
+        <item>Not \n মোটেই নয়, না</item>
+        <item>Near \n নিকটবর্তী, ঘনিষ্ঠ</item>
+        <item>Now \ এখন, বর্তমানে</item>
+        <item>No \n না, নয়</item>
+    </string-array>
+
+    <string-array name="o_related">
+        <item>Observation - পর্যবেক্ষণ, নিরীক্ষণ</item>
+        <item>Offer \n প্রস্তাব করা</item>
+        <item>Only \n একমাত্র, কেবলমাত্র</item>
+        <item>Other \n অপর, অন্য</item>
+        <item>Quite \n সম্পূর্ণ রুপে</item>
+        <item>Out \n বাইরে, দূরে</item>
+        <item>Off \n দূরে, দূরত্বে</item>
+        <item>Or \n অথবা, কিংবা</item>
+        <item>Of \n মধ্যে, সম্পর্কে</item>
+        <item>On \n উপরে, উপরিভাগে</item>
+        <item>Over \n ওপরে</item>
+        <item>Oil \n তেল, তৈল</item>
+        <item>Operation \ ক্রিয়া, কাজ</item>
+        <item>Opinion \n বিশ্বাস, মত</item>
+        <item>Order \n আদেশ, ক্রম</item>
+        <item>Organization \n গঠন, প্রতিষ্ঠান</item>
+        <item>Ornament \n ভূষণ, অলঙ্কার</item>
+        <item>Owner \n অধিকারী, স্বত্বাধিকারী</item>
+    </string-array>
+
+    <string-array name="p_related">
+        <item>Punishment \n শাস্তি, দণ্ড</item>
+        <item>Peace \n শান্তি, নিশ্চলতা</item>
+        <item>Page \n বই খাতার পৃষ্ঠ</item>
+        <item>Pain \n ব্যথা, যন্ত্রণা</item>
+        <item>Paint \n রঙ, রঞ্জক পদার্থ</item>
+        <item>Paper \n কাগজ, সংবাদপত্র</item>
+        <item>Part \n অংশ, অঙ্গ</item>
+        <item>Paste \n মন্ড, লেই</item>
+        <item>Payment \n টাকা দেওয়া বা পাওয়া</item>
+        <item>Powder \n চূর্ণ, গুঁড়া</item>
+        <item>Power \n শক্তি, সামর্থ্য</item>
+        <item>Price \n দাম, মূল্য</item>
+        <item>Print \n ছাপানো, মুদ্রিত করা</item>
+        <item>Process \n প্রক্রিয়া পদ্ধতি</item>
+        <item>Produce \n উৎপাদন করা</item>
+        <item>Profit \n আর্থিক লাভ, আয়</item>
+        <item>Property \n সম্মত্তি, বিশেষ গুণ</item>
+        <item>Prose \n গদ্য, গদ্যরচনা</item>
+        <item>Protest \n প্রতিবাদ করা</item>
+        <item>Please \n সন্তষ্টকরা, খুশি করা</item>
+        <item>Put \n রাখা, স্থাপন করা</item>
+        <item>Polite \n ভদ্র</item>
+        <item>Pull \n টানা, আকর্ষণ করা</item>
+        <item>Purpose \n অভীষ্ট লক্ষ্য, উদ্দেশ্য</item>
+        <item>Push \n ধাক্কা দেওয়া</item>
+    </string-array>
+
+    <string-array name="r_related">
+        <item>Restrained \n সংযত</item>
+        <item>Rain \n বৃষ্টি, বর্ষণ</item>
+        <item>Range \n সারি, অঞ্চল</item>
+        <item>Rate \n দর, হার</item>
+        <item>Ray \n আলোকরেখা, রশ্মি</item>
+        <item>Reaction \n প্রতিক্রিয়া, বিক্রিয়া</item>
+        <item>Reading \n পঠন, পাঠ</item>
+        <item>Reason \n কারণ, নিমিত্ত</item>
+        <item>Record \n লিখিত বিবরণ</item>
+        <item>Regret \n মনস্তাপ</item>
+        <item>Relation \n আত্মীয়তা, সম্পর্ক</item>
+        <item>Religion \n ধর্ম, আস্তিকতা</item>
+        <item>Representative \n প্রতিনিধিত্বমুলক</item>
+        <item>Request \n অনুরোধ, আর্জি</item>
+        <item>Respect \n সম্মানন বা ভক্তি করা</item>
+        <item>Rest \n বিশ্রাম, বিরাম</item>
+        <item>Reward \n পুরস্কার, প্রতিদান দেওয়া</item>
+        <item>Rhythm \n ছন্দ, তাল</item>
+        <item>Rice \n চাল, ভাত</item>
+        <item>River \n নদী</item>
+        <item>Road \n রাজপথ, রাস্তা</item>
+        <item>Roll \n গুটান বা জড়ান বস্তু</item>
+        <item>Room \n ঘর, কক্ষ</item>
+        <item>Rub \n ঘর্ষণ করা, মুছে ফেলা</item>
+        <item>Rule \n শাসন, নিয়ম</item>
+        <item>Run \n দৌড়ানো, পলায়ন করা</item>
+    </string-array>
+
+    <string-array name="s_related">
+        <item>Salt \n নুন, লবণ</item>
+        <item>Sand \n বালি, বালু</item>
+        <item>Science \n বিজ্ঞান</item>
+        <item>Scale \n মাপনী, স্কেল</item>
+        <item>Sea \n সমুদ্র, সাগর</item>
+        <item>Seat \n আসন, বসার স্থান</item>
+        <item>Secretary \n সচিব, সম্পাদক</item>
+        <item>Selection \n বাছাই, নির্বাচন</item>
+        <item>Self \n নিজ, স্বয়ং</item>
+        <item>Sense \n ইন্দ্রিয়, অনুভতি</item>
+        <item>Servant \n চাকর, ভৃত্য</item>
+        <item>Sex \n স্ত্রী-পুরুষ বোধ বা চিহৃ</item>
+        <item>Shade \n ছায়াচ্ছন্নতা, আলোছায়া</item>
+        <item>Shake \n ঝাঁকুনি দেওয়া</item>
+        <item>Shame \n লজ্জা, অপমান</item>
+        <item>Shock \n আঘাত, ধাক্কা</item>
+        <item>Side \n পার্শ্ব, ধার</item>
+        <item>Sign \n সঙ্কেত চিহ্ন</item>
+        <item>Silk \n রেশম, রেশমের কাপড়</item>
+        <item>Slope \n ঢালু জায়গা</item>
+        <item>Smoke \n ধোঁয়া, ধুমপান</item>
+        <item>Sneeze \n হাঁচি দেওয়া, হাঁচা</item>
+        <item>Society \n সমাজ, সম্প্রদায়</item>
+        <item>Statement \n লিখিত বিবৃতি, উক্তি</item>
+        <item>Steam \n বাস্প, ধোঁয়া</item>
+        <item>Stone \n পাথর, শিলা</item>
+        <item>Stitch \n সেলাই করা</item>
+        <item>Story \n গল্প, কাহিনী</item>
+        <item>Structure \n গঠন, কাঠামো</item>
+        <item>Still \n স্থির, নিরব</item>
+        <item>Subdued \n দমিত</item>
+        <item>Some \n কিছু সংখ্যক</item>
+        <item>Such \n এমন, অমুক</item>
+        <item>Suitable \n উপযুক্ত</item>
+        <item>Seemly \n শোভন</item>
+        <item>So \n এরুপে, এত</item>
+        <item>Society \n সমাজ, সম্প্রদায়</item>
+        <item>Statement \n লিখিত বিবৃতি, উক্তি</item>
+        <item>Society \n সমাজ, সম্প্রদায়</item>
+        <item>Silk \n রেশম, রেশমের কাপড়</item>
+        <item>Steam \n বাস্প, ধোঁয়া</item>
+        <item>Society \n সমাজ, সম্প্রদায়</item>
+        <item>South \n দক্ষিন দিক</item>
+        <item>Seem \n বোধ হওয়া</item>
+    </string-array>
+
+    <string-array name="t_related">
+        <item>Tendency \n ঝোঁক, প্রবণতা</item>
+        <item>Thunder \n বজ্রধ্বনি, বাজ</item>
+        <item>Take \n গ্রহণ করা, লওয়া</item>
+        <item>Till \ এ পর্যন্ত, এ যাবৎ</item>
+        <item>Together \n একসঙ্গে, একত্রে</item>
+        <item>Than \n তুলনায়, থেকে</item>
+        <item>Tomorrow \n আগামীকাল, কালকে</item>
+        <item>Then \n তখন, তারপর</item>
+        <item>Talk \n কথা বলা</item>
+        <item>Taste \n স্বাদ, রুচি</item>
+        <item>Tax \n কর, খাজনা</item>
+        <item>Teaching \n শেখান, শিক্ষা দেত্তয়া</item>
+        <item>Test \n পরীক্ষা, যাচাই</item>
+        <item>Theory \n তত্ত্ব, মতবাদ</item>
+        <item>Thought \n চিন্তা, ধারণা</item>
+        <item>Touch \n স্পর্শ করা, ছোয়া</item>
+        <item>Trade \n বাণিজ্য, লেনদেন</item>
+        <item>Transport \n পরিবহন, পরিবহণ করা</item>
+        <item>Turn \n ঘোরানো বা আবর্তিত করা</item>
+        <item>Thing \n জিনিস, পদার্থ</item>
+        <item>Time \n সময়, ঋতু</item>
+        <item>Tin \n রঙ্গ, রাং</item>
+        <item>Top \n চুড়া, শীর্ষ</item>
+        <item>There \n সেখানে, তথায়</item>
+        <item>That \n যে, সেই</item>
+        <item>This \n ইহা, এ</item>
+        <item>Through \n সাহায্যে, দ্বারা</item>
+        <item>Though \n যাহা হউক, সত্ত্বেত্ত</item>
+        <item>To \n প্রতি, দিকে</item>
+        <item>Trick \n প্রতারণা, চালাকি</item>
+        <item>Trouble \n যন্ত্রণা দেওয়া</item>
+    </string-array>
+
+    <string-array name="w_related">
+        <item>Worthy \n সুযোগ্য</item>
+        <item>West \n পশ্চিমদিক</item>
+        <item>With \n সঙ্গে, সাথে</item>
+        <item>Wax \n মোম, কানের খইল</item>
+        <item>Way \n উপায়, পথ</item>
+        <item>Weather \n আবহ, আবহাত্তয়া</item>
+        <item>Week \n সপ্তাহ</item>
+        <item>Weight \n ভার, ওজন</item>
+        <item>Wind \n বাতাস</item>
+        <item>Wine \n মদ</item>
+        <item>Where \n যেখানে, কই</item>
+        <item>Where \n যেখানে, কই</item>
+        <item>Well \n ভাল, সু্স্থ</item>
+        <item>While \n সময়, অল্পক্ষণ</item>
+        <item>Who \n কে, কাহারা</item>
+        <item>When \n যখন, যাহাতে</item>
+        <item>Walk \n হাঁটা, চলা</item>
+        <item>War \n যুদ্ধ, প্রকাশ্য বৈরিতা</item>
+        <item>Wash \n ধোয়া, কাচা</item>
+        <item>Waste \n নষ্ট করা, ধ্বংস করা</item>
+        <item>Water \ জল, পানি</item>
+        <item>Wave \n ঢেউ</item>
+        <item>Will \n সংকল্প, ইচ্ছা</item>
+        <item>Why \n কেন, কি জন্য</item>
+        <item>Wood \n কাষ্ঠ, বন</item>
+        <item>Writing \n লেখা, লিখিত</item>
+        <item>Work \n কাজ, কর্ম</item>
+        <item>Word \n শব্দ, কথা</item>
+        <item>Wool \n উল, পশম</item>
+        <item>Wound \n ক্ষত, আঘাত</item>
+    </string-array>
+
+    <!--Vocab-->
+    <string-array name="vocabulary_basic">
+        <item>Judge \n বিচারপতি</item>
+        <item>Lead \n নেতৃত্ব</item>
+        <item>Law \n নিয়ম, আইন</item>
+        <item>Secretary \n সচিব, সম্পাদক</item>
+        <item>Punishment \n শাস্তি, দণ্ড</item>
+        <item>Actuary \n নিবন্ধক</item>
+        <item>Advertisement \n বিজ্ঞাপন</item>
+        <item>Assessor \n কর নির্ধারক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Cashier \n কোষাধ্যক্ষ</item>
+        <item>Bureaucracy \n আমলাতন্ত্র</item>
+        <item>Claim \n অধিকার</item>
+        <item>Contract \n চুক্তিবদ্ধ করা</item>
+        <item>Merchandise \n পণ্যদ্রব্য</item>
+        <item>Verdict \n নির্ণয়, রায়</item>
+        <item>Unanimous \n সর্বসম্মত</item>
+        <item>Trail \n পদাঙ্ক অনুসরণ</item>
+        <item>Blamestorming \n দোষারপ</item>
+        <item>Stipulate \n চুক্তি করা</item>
+        <item>Speculate \n গঠন করা</item>
+        <item>Statement \n লিখিত বিবৃতি</item>
+        <item>Sue \n নালিশ করা</item>
+        <item>Lawsuit \n মকদ্দমা</item>
+        <item>Solicitor \n আইনজ্ঞ, প্রার্থী</item>
+        <item>Scam \n প্রতারণামূলক কাজ</item>
+        <item>Abbe \n ফরাসী ধর্মযাজক</item>
+        <item>Observation \n পর্যবেক্ষণ</item>
+        <item>Opinion \n মত, বিবেচনা</item>
+        <item>Record \n লিখিত বিবরণ</item>
+        <item>Representative \n প্রতিনিধি</item>
+        <item>Reward \n প্রতিদান দেওয়া</item>
+        <item>Rub \n ঘর্ষণ করা</item>
+        <item>Rule \n শাসন, নিয়ম, প্রথা</item>
+        <item>Solicitor \n আইনজ্ঞ</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Bonus \n অতিরিক্ত লভ্যাংশ</item>
+        <item>Deficit \n ঘাটতি</item>
+        <item>Cargo \n মালপত্র</item>
+        <item>Consumer \n ভোক্তা</item>
+        <item>Dismiss \n পদচ্যুত করা</item>
+        <item>Liability \n ঋণ, দায়িত্ব</item>
+        <item>Assessor \n কর নির্ধারক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Customs \n বহি:শুল্ক</item>
+        <item>Bureaucracy \n আমলাতন্ত্র</item>
+        <item>Claim \n অধিকার</item>
+        <item>Freight \n ভাড়া বা মাশুল</item>
+        <item>Merchandise \n পণ্যদ্রব্য</item>
+        <item>Way-bill \n মালের তালিকা</item>
+        <item>Trade-mark \n পণ্যচিহ্ন</item>
+        <item>Wholesale \n পাইকারী বিক্রি</item>
+        <item>Retailer \n খুচরা বিক্রিতা</item>
+        <item>Promote \n বর্ধিত করা</item>
+        <item>Acme \n সর্বোচ্চ সীমা, চুড়া</item>
+        <item>Statement \n লিখিত বিবৃতি</item>
+        <item>Reward \n পুরস্কার দেওয়া</item>
+        <item>Term \n নির্দিষ্ট, সীমিত কাল</item>
+        <item>Machine \n যন্ত্র, মেশিন</item>
+        <item>Need \n প্রয়োজন, অভাব</item>
+        <item>Payment \n পারিশ্রমিক</item>
+        <item>Religion \n ধর্ম, আস্তিকতা</item>
+        <item>Relation \n আত্মীয়তা</item>
+        <item>Regret \n মনস্তাপ</item>
+        <item>Virtue \n পুণ্য</item>
+        <item>Sin \n পাপ</item>
+        <item>Heaven \n স্বর্গ</item>
+        <item>Hell \n জাহান্নাম</item>
+        <item>Fasting \n উপবাস</item>
+        <item>Religion \n ধর্ম</item>
+        <item>Religious \n ধার্মিক</item>
+        <item>Prophet \n নবী</item>
+        <item>Believer \n বিশ্বাসী, আস্তিক</item>
+        <item>Mosque \n মসজিদ</item>
+        <item>Atheist \n নাস্তিক</item>
+        <item>Temple \n মন্দির</item>
+        <item>Pious \n ধার্মিক</item>
+        <item>Idol \n প্রতিমা</item>
+        <item>Grave \n কবর</item>
+        <item>Church \n গির্জা</item>
+        <item>Pray \n প্রার্থনা করা</item>
+        <item>Spiritual \n আধ্যাত্মিক</item>
+        <item>Duty \n শুল্ক</item>
+        <item>Creditor \n ঋণদাতা</item>
+        <item>Inflation \n মুদ্রাস্ফীতি</item>
+        <item>Funding \n পুঁজি</item>
+        <item>Subsidy \n ভর্তুকি</item>
+        <item>Legitimecy \n বৈধতা</item>
+        <item>Revenue \n রাজস্ব</item>
+        <item>Tax \n কর</item>
+        <item>Fiscal year \n অর্থবছর</item>
+        <item>Fiscal policy \n রাজস্ব নীতি</item>
+        <item>Capital \n রাজধানী</item>
+        <item>Recession \n মন্দা</item>
+        <item>Grants \n অনুদান</item>
+        <item>Implementation \n বাস্তবায়ন</item>
+        <item>Transparency \n স্বচ্ছতা</item>
+        <item>Excise \n আবগারি কর</item>
+        <item>Credit \n জমা</item>
+        <item>Deflation \n স্ফীতিহ্রাস</item>
+        <item>Garlic \n রসুন</item>
+        <item>Ginger \n আদা</item>
+        <item>Cumin \n জিরা</item>
+        <item>Onion \n পেঁয়াজ</item>
+        <item>Cloves \n লবঙ্গ</item>
+        <item>Mustard \n সরিষা</item>
+        <item>Cassia \n তেজপাতা</item>
+        <item>Turmeric \n হলুদ</item>
+        <item>Coriander \n ধনিয়া</item>
+        <item>Cardamom \n এলাচ</item>
+        <item>Red chilli \n লাল মরিচ</item>
+        <item>Green chilli \n কাঁচা মরিচ</item>
+        <item>Mint leaf \n পুদিনা পাতা</item>
+        <item>Sago \n সাবু</item>
+        <item>Musk \n কস্তুরী</item>
+        <item>Alum \n ফিটকারি</item>
+        <item>Sandal \n চন্দন</item>
+        <item>Nutmeg \n জায়ফল</item>
+        <item>Salphur \n গন্ধক</item>
+        <item>Cinnamon \n দারুচিনি</item>
+        <item>Tamarind \n তেঁতুল</item>
+        <item>Myrobalan \n হরীতকী</item>
+        <item>Coriander leaf \n ধনে পাতা</item>
+        <item>Pact \n চুক্তি</item>
+        <item>Apparatus \n যন্ত্রপাতি</item>
+        <item>Amusement \n আমোদপ্রমোদ</item>
+        <item>Adjustment \n মানিয়ে নেয়া</item>
+        <item>Agreement \n চুক্তি, মতৈক্য</item>
+        <item>Bland \n স্নিগ্ধ</item>
+        <item>Bent \n নমিত</item>
+        <item>Canvas \n ত্রিপল, পটভূমি</item>
+        <item>Fiction \n গল্প, বানান গল্প</item>
+        <item>Fondness \n অনুরাগ</item>
+        <item>Grip \n দৃঢ়মুষ্টি</item>
+        <item>Grain \n শস্য, শস্যের দানা</item>
+        <item>Glove \n দস্তানা, করত্রাণ</item>
+        <item>Hammer \n হাতুড়ি</item>
+        <item>Horn \n পশুশৃঙ্গ, শিঙ</item>
+        <item>Humble \n নম্র</item>
+        <item>Harbour \n পোতাশ্রয়, আশ্রয় দেওয়া</item>
+        <item>Harmony \n সাদৃশ্য, সঙ্গতি</item>
+        <item>Humour \n কৌতুক, মেজাজ</item>
+        <item>Inclination \n বাঁক</item>
+        <item>Impulse \n ঝোক, কর্মপ্রেরনা</item>
+        <item>Industry \n শ্রমশিল্প, শিল্প</item>
+        <item>Insurance \n বীমা</item>
+        <item>Slope \n ঢালু জায়গা</item>
+        <item>Sneeze \n হাঁচি দেওয়া, হাঁচা</item>
+        <item>Stitch \n সেলাই করা</item>
+        <item>Subdued \n দমিত</item>
+        <item>Seemly \n শোভন</item>
+        <item>Actuary \n নিবন্ধক</item>
+        <item>Advertisement \n বিজ্ঞাপন</item>
+        <item>Assessor \n কর নির্ধারক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Blamestorming \n দোষারপ</item>
+        <item>Stipulate \n চুক্তি করা</item>
+        <item>Speculate \n গঠন করা</item>
+        <item>Scam \n প্রতারণামূলক কাজ</item>
+        <item>Abbe \n ফরাসী ধর্মযাজক</item>
+        <item>Solicitor \n আইনজ্ঞ</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>liability \n ঋণ, দায়িত্ব</item>
+        <item>Assessor \n কর নির্ধারক</item>
+        <item>Attorney \n ন্যায়বাদী</item>
+        <item>Customs \n বহি:শুল্ক</item>
+        <item>Bureaucracy \n আমলাতন্ত্র</item>
+        <item>Evidence \n প্রমাণ</item>
+        <item>Irrevocable \n অপরিবর্তনীয়</item>
+        <item>Payee \n পাওনাদার</item>
+        <item>Plead \n পক্ষসমর্থন করা</item>
+        <item>Abed \n শয্যাগত</item>
+        <item>Abet \n অসৎ কার্যে সাহায্য</item>
+        <item>Food \n খাবার</item>
+        <item>Beef \n গরুর মাংস</item>
+        <item>Pulse \n ডাল</item>
+        <item>Cheese \n পনির</item>
+        <item>Hotchpotch \n খিচুড়ি</item>
+        <item>Popcorn \n ভুট্টার খই</item>
+        <item>Cake \n পিঠা</item>
+        <item>Loaf \n পাউরুটি</item>
+        <item>Honey \n মধু</item>
+        <item>Jam \n ফলের আচার</item>
+        <item>Flour \n ময়দা</item>
+        <item>Ice \n বরফ</item>
+        <item>Ice-cream \n কুলফি</item>
+        <item>Tea \n চা</item>
+        <item>Weather \n আবহাওয়া</item>
+        <item>Hurricane \n প্রবল সামুদ্রিক ঝড়</item>
+        <item>Sandstome \n বালুশিলা</item>
+        <item>Whirlpool \n ঘূর্ণাবর্ত</item>
+        <item>Whirlwind \n ঘূর্ণিঝড়</item>
+        <item>Tornado \n ঘূর্ণিঝড়</item>
+        <item>Earthquake \n ভূমিকম্প</item>
+        <item>Overcast \n মেঘাচ্ছন্ন</item>
+        <item>Overcast day \n ভয়াবহ দিন</item>
+        <item>Overcast sky \n মেঘলা আকাশ</item>
+        <item>Sunny day \n রৌদ্রজ্জ্বল দিন</item>
+        <item>Rainbow \n রামধনু</item>
+        <item>Rain \n বৃষ্টি</item>
+        <item>Rainy day \n বৃষ্টির দিন</item>
+        <item>Sun \n সূর্য</item>
+        <item>Sunshine \n রোদ</item>
+        <item>Moon \n চাঁদ</item>
+        <item>Moonlit \n চাঁদনী</item>
+        <item>Moonlight \n চাঁদের আলো</item>
+        <item>Sunset \n সূর্যাস্ত</item>
+        <item>Sunrise \n সূর্যোদয়</item>
+        <item>Heavy rain \n ভারী বর্ষণ</item>
+        <item>Heavy snow \n ভারি তুষারপাত</item>
+        <item>Heavy snowfall \n ভারি তুষারপাত</item>
+        <item>Thunder \n বজ্রধ্বনি</item>
+        <item>Thunderstorm \n বজ্রঝড়</item>
+        <item>Blizzard \n প্রবল তুষারঝড়</item>
+        <item>Wind \n বাতাস</item>
+        <item>Blow \n বায়ুপ্রবাহ</item>
+        <item>Season \n ঋতু</item>
+        <item>Seasonal \n মৌসুমি</item>
+        <item>Fever \n জ্বর</item>
+        <item>Heart attack \n হৃদরোগ</item>
+        <item>Heart stroke \n হৃদরোগ</item>
+        <item>Heart disease \n হৃদরোগ</item>
+        <item>Fitness \n উপযুক্ততা</item>
+        <item>Physically \n শারীরিকভাবে</item>
+        <item>Cancer \n মরণব্যাধি রোগ</item>
+        <item>Diet \n খাদ্য</item>
+        <item>Diarrhea \n উদরাময়</item>
+        <item>Antidote \n প্রতিষেধক</item>
+        <item>Diabetes \n বহুমূত্ররোগ</item>
+        <item>Bleeding \n রক্তপাত</item>
+        <item>Hypertension \n উচ্চ রক্তচাপ</item>
+        <item>Dizziness \n মাথা ঘোরা</item>
+        <item>Ill \n অসুস্থ</item>
+        <item>Illness \n অসুস্থতা</item>
+        <item>Blood \n রক্ত</item>
+        <item>Blood test \n রক্ত পরীক্ষা</item>
+        <item>Blind \n অন্ধ</item>
+        <item>Typhoid \n আন্ত্রিক জ্বর</item>
+        <item>Typhus \n সাঙ্ঘাতিক জ্বর</item>
+        <item>Asthma \n শ্বাসকষ্ট</item>
+        <item>Dyspnoea \n শ্বাসকষ্ট</item>
+        <item>Headache \n মাথা ব্যাথা</item>
+        <item>Allergies \n এলার্জি</item>
+        <item>Convulsion \n খিঁচুনি</item>
+        <item>Runny nose \n সর্দি</item>
+        <item>Epilepsy \n মৃগীরোগ</item>
+        <item>Scabies \n পাঁচড়া</item>
+        <item>Itch \n পাঁচড়া</item>
+        <item>Restaurant \n রেস্টুরেন্ট</item>
+        <item>Dining room \n ভোজন-কক্ষ</item>
+        <item>Bistro \n খাবারের দোকান</item>
+        <item>Menu \n খাদ্যতালিকা</item>
+        <item>Fork \n কাঁটাচামচ</item>
+        <item>Fries \n ভাজা</item>
+        <item>Beef \n গরুর মাংস</item>
+        <item>Chicken \n মুরগির মাংস</item>
+        <item>Meat \n মাংস</item>
+        <item>Spicy \n মসলাযুক্ত</item>
+        <item>Grilled \n ভাজা</item>
+        <item>Steak \n মাংসের ফালি</item>
+        <item>Dessert spoon \n চামচ</item>
+        <item>Cutty \n চামচ</item>
+        <item>Dessert \n মিষ্টান্ন</item>
+        <item>Sauce \n আচার</item>
+        <item>Chef \n পাচক</item>
+        <item>Condiments \n মশলা</item>
+        <item>Delicious \n সুস্বাদু</item>
+        <item>Delicious food \n সুস্বাদু খাবার</item>
+        <item>Delicious dishes \n সুস্বাদু খাদ্যসমূহ</item>
+        <item>Delicious meal \n সুস্বাদু খাবার</item>
+        <item>Meal \n খাবার</item>
+        <item>Waiter \n পরিচারক</item>
+        <item>Gourmand \n পেটুক</item>
+        <item>Mealtime \n ভোজনকাল</item>
+        <item>Meal allowance \n খাবার ভাতা</item>
+        <item>Reservation \n সংরক্ষণ</item>
+        <item>Condiment \n আচার</item>
+        <item>Avaricious \n লোলুপ</item>
+        <item>Teacher \n শিক্ষক</item>
+        <item>Pioneering \n নেতা</item>
+        <item>Pioneer \n অগ্রগামী</item>
+        <item>Farmer \n কৃষক</item>
+        <item>Advocate \n উকিল</item>
+        <item>Advocated \n শিল্পমন্ত্রী</item>
+        <item>Ambassador \n রাষ্ট্রদূত</item>
+        <item>Goldsmith \n স্বর্ণকার</item>
+        <item>Lawyer \n আইনজীবী</item>
+        <item>Journalist \n সাংবাদিক</item>
+        <item>Writer \n লেখক</item>
+        <item>Blacksmith \n কামার</item>
+        <item>Cobbler \n মুচি</item>
+        <item>Barber \n নাপিত</item>
+        <item>Pilot \n বিমান-চালক</item>
+        <item>Shopkeeper \n দোকানদার</item>
+        <item>Hawker \n ফেরিত্তয়ালা</item>
+        <item>Jeweler \n জহুরি</item>
+        <item>Police \n নিরাপত্তা বাহিনী</item>
+        <item>Politician \n রাজনীতিবিদ</item>
+        <item>Postman \n ডাকপিয়ন</item>
+        <item>Doctor \n চিকিৎসক</item>
+        <item>Army \n সেনা</item>
+        <item>Fisherman \n জেলে</item>
+        <item>Designer \n নকশাকার</item>
+        <item>Editor \n সম্পাদক</item>
+        <item>Tailor \n দর্জি</item>
+        <item>Boatman \n নৌকার মাঝি</item>
+        <item>Examiner \n পরীক্ষক</item>
+        <item>Actor \n অভিনেতা</item>
+        <item>Actress \n অভিনেত্রী</item>
+        <item>Butcher \n কসাই</item>
+        <item>Athlete \n ক্রীড়াবিদ</item>
+        <item>Composer \n সুরকার</item>
+        <item>Director \n পরিচালক</item>
+        <item>Builder \n নির্মাতা</item>
+        <item>Tutor \n গৃহশিক্ষক</item>
+        <item>Mason \n রাজমিস্ত্রি</item>
+        <item>Mechanic \n মিস্ত্রি, কারিগর</item>
+        <item>Artisan \n কারিগর</item>
+        <item>Landlord \n জমিদার</item>
+        <item>Worker \n কর্মী</item>
+        <item>Judge \n বিচারক</item>
+        <item>Arum \n কচু</item>
+        <item>Amaranth \n নটে শাখ</item>
+        <item>Apple Gourd \n তিন্দা</item>
+        <item>Ash Gourd \n চাল কুমড়ো</item>
+        <item>Brussels sprout \n বিলিতি</item>
+        <item>Bean \n শিম</item>
+        <item>Beet \n পালংশাক</item>
+        <item>Brinjal \n বেগুন</item>
+        <item>Bay Leaf \n তেজ পাতা</item>
+        <item>Chickpea \n ছোলা</item>
+        <item>Cucumber \n শসা</item>
+        <item>Cabbage \n বাধাকপি</item>
+        <item>Cauliflower \n ফুলকপি</item>
+        <item>Cumin \n জিরা</item>
+        <item>Carrot \n গাজর</item>
+        <item>Ceylon spinach \n পুঁই শাখ</item>
+        <item>Holy Basil \n তুলসী</item>
+        <item>Gourd \n লাউ</item>
+        <item>Mint \n পুদিনা</item>
+        <item>Nutmeg \n জায়ফল </item>
+        <item>Pumpkin \n কুমড়ো</item>
+        <item>Red Amaranth \n লাল শাখ</item>
+        <item>Ridge Gourd \n ঝিঙ্গা</item>
+        <item>Snake Gourd \n চিচিঙ্গা</item>
+        <item>Taro \n কচুরলতি</item>
+        <item>Teasle Gourd \n কাকরোল</item>
+        <item>Turnip \n ওলকপি</item>
+        <item>Turnip greens \n শালগম</item>
+        <item>Water spinach \n পালং</item>
+        <item>Winter melon \n চাল কুমড়ো</item>
+    </string-array>
+
+
+    <string-array name="vocabulary_mid">
+        <item>Elated \n অত্যন্ত আনন্দিত</item>
+        <item>Desolation \n নির্জন</item>
+        <item>Pittance \n সামান্য বেতন</item>
+        <item>Enthralling \n বিমুগ্ধ</item>
+        <item>Encomium \n উচ্চ প্রশংসা</item>
+        <item>Aphorism \n সংক্ষিপ্ত জ্ঞানগর্ব</item>
+        <item>Insolent \n অপমানজনক</item>
+        <item>Delicate \n কোমল, উপাদেয়</item>
+        <item>Effusive \n উচ্ছ্বাস প্রবণ</item>
+        <item>Mercenary \n ভাড়াটে সৈনিক</item>
+        <item>Paucity \n অভাব</item>
+        <item>Far-fetched \n অস্বাভাবিক</item>
+        <item>Deceptive \n প্রতারণামূলক</item>
+        <item>Altruistic \n পরের জন্য মঙ্গলজনক</item>
+        <item>Muster \n সমবেশ</item>
+        <item>Demobilize \n অব্যাহতি দেয়া</item>
+        <item>Troops \n দল বা পাল</item>
+        <item>Jury \n নির্ণায়ক সভা</item>
+        <item>Laggard \n পিছিয়ে পড়া ব্যক্তি</item>
+        <item>Perjury \n শপথভাঙ্গ</item>
+        <item>Embezzlement \n অর্থ আত্মসাৎ</item>
+        <item>Oath, Vow \n শপথ করা</item>
+        <item>Theist \n আস্তিক</item>
+        <item>Theologist \n ধর্মতত্ত্ববিৎ</item>
+        <item>Pantheist \n সর্বেশ্বরবাদী</item>
+        <item>Monotheist \n একেশ্বরবাদী</item>
+        <item>Debris \n ধ্বংসাবশেষ</item>
+        <item>Relics \n পুরাতাত্ত্বিক নিদর্শন</item>
+        <item>Prick \n ছিদ্র করা</item>
+        <item>Paleontology \n জীবাশ্ম বিজ্ঞান</item>
+        <item>Encyclopedia \n বিশ্বকোষ</item>
+        <item>Bygone \n বিগত</item>
+        <item>Polity \n রাষ্ট্র ব্যবস্থা</item>
+        <item>Regicide \n রাজহত্যা</item>
+        <item>Belittlement \n হীনতা,খর্বতা</item>
+        <item>Zest \n রুচি, প্রানবন্ততা</item>
+        <item>Fiddling \n তুচ্ছ</item>
+        <item>Linguistic \n ভাষাবিজ্ঞান</item>
+        <item>Polyglot \n বহুভাষী</item>
+        <item>Green eye \n ঈর্ষান্বিত</item>
+        <item>Taunting \n বিদ্রুপ</item>
+        <item>Blight \n ক্ষয় করা</item>
+        <item>Deter \n নিরুৎসাহিত করা</item>
+        <item>Frivolous \n ছেলেমানুষীপ</item>
+        <item>Impair \n দুর্বল করা</item>
+        <item>Spool, Reel \n নাটাই</item>
+        <item>Thread \n সুতা</item>
+        <item>Convolution \n কুণ্ডলী</item>
+        <item>Queer \n অদ্ভুত</item>
+        <item>Orderly \n গোছালো</item>
+        <item>Murky \n আবছা, অস্পষ্ট</item>
+        <item>Archives \n নথিপত্র</item>
+        <item>Pedestal \n স্তম্ভের পাদভূমি</item>
+        <item>Pretend \n মিথ্যা বর্ণনা করা</item>
+        <item>Incongruous \n বেমানান</item>
+        <item>Hedge \n প্রতিবন্ধক</item>
+        <item>Derrick \n ভার উত্তোলন যন্ত্র</item>
+        <item>Sacrosanct \n অলঙ্ঘনীয়</item>
+        <item>Resentment \n আক্রোশ</item>
+        <item>Equanimity \n প্রশান্তি</item>
+        <item>Dubiousness \n অনিশ্চয়তা</item>
+        <item>Supercilious \n অহংকৃ</item>
+        <item>Dotage \n ভীমরতি</item>
+        <item>Notwithstanding \n তথাপি, যদিও</item>
+        <item>Adoring \n প্রেমপূর্ণ</item>
+        <item>Myriad \n অসংখ্য</item>
+        <item>Shortcomings \n ত্রুটি</item>
+        <item>Idolatrous \n পরম ভক্তিশীল</item>
+        <item>Exaltation \n পদমর্যাদায় উন্নতিসাধন</item>
+        <item>Venture \n উদ্যোগ</item>
+        <item>Conspire \n চক্রান্ত করা</item>
+        <item>Reimburse \n পরিশোধ করা</item>
+        <item>Alabaster \n সাদা পাথর</item>
+        <item>Boaster \n অহংকারী ব্যক্তি</item>
+        <item>Fatalist \n অদৃষ্টবাদী</item>
+        <item>Tenterhooks \n উদ্বেগপূর্ণ অনিশ্চিত অবস্থা</item>
+        <item>Reproof \n অসমর্থন</item>
+        <item>Impertinence \n অপ্রাসঙ্গিকতা</item>
+        <item>Denigration \n দুর্নাম</item>
+        <item>Imbecility \n মূর্খতা</item>
+        <item>Senility \n বার্ধক্য</item>
+        <item>Prolific \n উর্বর</item>
+        <item>Revolution \n বিপ্লব</item>
+        <item>Warlock \n মায়াবী</item>
+        <item>Adopt \n গ্রহণ করা</item>
+        <item>Pose \n জাহির করা</item>
+        <item>Infrared \n অবলোহিত</item>
+        <item>Finagle, Swindle \n প্রতারণা করা</item>
+        <item>Supplant \n স্থানচ্যুত</item>
+        <item>Incite \n উৎসাহিত করা</item>
+        <item>Abyss \n গহ্বর</item>
+        <item>Empirical \n গবেষণামূলক</item>
+        <item>Puerile \n তুচ্ছ</item>
+        <item>Nonchalant \n উদাসীন</item>
+        <item>Sardonic \n ঘৃণাপূর্ণ</item>
+        <item>Voluptuous \n আনন্দবাদী</item>
+        <item>Rotund \n গোলাকার</item>
+        <item>Gourmand \n পেটুক</item>
+        <item>Condiment \n আচার, মশলা</item>
+        <item>Piquant \n তীব্র, কটু</item>
+        <item>Repast \n আহার</item>
+        <item>Nourishing \n পুষ্টিকর</item>
+        <item>Gifted \n প্রতিভাধর</item>
+        <item>Propensity \n প্রবণতা</item>
+        <item>Inebriated \n মদ্যপ</item>
+        <item>Befuddled \n বিভ্রান্ত</item>
+        <item>Rational \n বিবেকী, যুক্তিসম্মত</item>
+        <item>Arrogant \n অহংকারী</item>
+        <item>Vicissitudes \n উথানপতন</item>
+        <item>Bohemian \n ভবঘুরে ধরনের লোক</item>
+        <item>Sinister \n অপকারী, অশুভ</item>
+        <item>Meditative \n চিন্তাশীল</item>
+        <item>Categorical \n নিরপেক্ষ</item>
+        <item>Sermon \n নৈতিক বক্তৃতা</item>
+        <item>Agnostic \n অজ্ঞানবাদী</item>
+        <item>Oracular \n জ্ঞানবিশিষ্ট</item>
+        <item>Hole and Corner \n গোপনীয়</item>
+        <item>Defy \n বাধা দেয়া</item>
+        <item>State of Shock \n কিংকর্তব্যবিমূঢ়</item>
+        <item>Amateur \n অপেশাদার</item>
+        <item>Anticipated \n অনুমান বা বুঝতে পারা</item>
+        <item>Antagonism \n প্রতিদ্বন্দীতা</item>
+        <item>Delirious \n বিকারগ্রস্থ</item>
+        <item>Hefty \n প্রবল, তাগড়া</item>
+        <item>Delusive \n ভ্রান্তি</item>
+        <item>Heinous \n জগন্য</item>
+        <item>Inveigle \n চাটুকারিতায় মুগ্ধ করা</item>
+        <item>Monopoly \n একচেটিয়া অধিকার</item>
+        <item>Rational \n যুক্তিসঙ্গত</item>
+        <item>Demolish \n চূর্ণ করা</item>
+        <item>Understatement \n কমিয়ে বলা</item>
+        <item>Tenure \n কার্যকাল</item>
+        <item>Protract \n দীর্ঘায়িত করা</item>
+        <item>Distract \n বিভ্রান্ত করা</item>
+        <item>Currency \n প্রচলিত</item>
+        <item>Obsolescence \n অপ্রচলিত</item>
+        <item>Facile \n সাবলীল</item>
+        <item>Crank \n বাঁকা</item>
+        <item>Formless \n আকৃতিহীন</item>
+        <item>Equitable \n ন্যায়সঙ্গত</item>
+        <item>Cereal \n খাদ্যশস্য</item>
+        <item>Queue \n লাইন</item>
+        <item>Inimical \n শত্রুভাবাপন্ন</item>
+        <item>Impel \n অনুপ্রাণিত করা</item>
+        <item>Orchestrate \n সুসমন্বিত করা</item>
+        <item>Repent \n অনুশোচনা করা</item>
+        <item>Braggart \n দাম্ভিক</item>
+        <item>Dilettante \n অপটুকর্মী</item>
+        <item>Pilferer \n ছিঁচকে চোর</item>
+        <item>Prevaricator \n সত্যের আলাপকারী</item>
+        <item>Raconteur \n গল্পকথক</item>
+        <item>Scurrilous \n অমার্জিত, অপমান করা</item>
+        <item>Compassionate \n করুণাময়</item>
+        <item>Servile \n ক্রীতদাস সুলভ</item>
+        <item>Strict \n কঠোর</item>
+        <item>Steal a march \n ঔজ্বল্যে ছাপিয়ে যাওয়া</item>
+        <item>Biased \n পক্ষপাতদুষ্ট</item>
+        <item>Salient \n প্রধান বৈশিষ্ট</item>
+        <item>Shove \n ধাক্কা মারা</item>
+        <item>Visible \n দৃশ্যমান</item>
+        <item>Omission \n ভ্রান্তি</item>
+        <item>Inamorata \n প্রণয়ী</item>
+        <item>Come round \n আরোগ্য লাভ করা</item>
+        <item>Hit Upon \n খুঁজে পাওয়া</item>
+        <item>Depart \n গমন করা</item>
+        <item>Conclude \n শেষ করা</item>
+        <item>Elective \n নির্বাচক</item>
+        <item>Craft \n দক্ষতা</item>
+        <item>Impede \n ব্যাহত করা</item>
+        <item>Mutation \n পরিবর্তন</item>
+        <item>Commence \n শুরু করা</item>
+        <item>Episodic \n অনিয়মিত</item>
+        <item>Conventional \n গতানুগতিক</item>
+        <item>Recapture \n পুনরুদ্ধার করা</item>
+        <item>Conducive \n সহায়ক</item>
+        <item>Dilemma \n উভয়সংকট</item>
+        <item>Constraint \n বাঁধা</item>
+        <item>Agitation \n অশান্ত</item>
+        <item>Stir \n আলোড়িত করা</item>
+        <item>Void \n বাতিল</item>
+        <item>Refute \n অস্বীকার করা</item>
+        <item>Optimist \n আশাবাদী</item>
+        <item>Idealistic \n আদর্শবাদী</item>
+        <item>Pessimist \n হতাশাবাদী</item>
+        <item>Peak \n সর্বোচ্চ চূড়া</item>
+        <item>Extreme \n চরম</item>
+        <item>Pragmatic \n বাস্তবধর্মী প্রয়োগবাদী</item>
+        <item>Insectivorous \n পতঙ্গভূক</item>
+        <item>Electorate \n নির্বাচকমন্ডলী</item>
+        <item>Exigency \n জরুরী প্রয়োজন</item>
+        <item>Complacent \n সন্তুষ্টি</item>
+        <item>Austere \n উগ্র, কঠোর</item>
+        <item>Artillery \n কামান</item>
+        <item>Docile \n ভদ্র</item>
+        <item>Castigate \n তিরস্কার করা</item>
+        <item>Fastidious \n খুঁতখুঁতে</item>
+        <item>Aloof \n একাকী, নির্লিপ্ত</item>
+        <item>Lawn \n বনভূমি</item>
+        <item>Stream \n জলপ্রবাহ</item>
+        <item>Petrology \n শিলাতত্ব</item>
+        <item>Shore \n তীরভূমি, কূল</item>
+        <item>Flatten \n সমতল হয়ে যাওয়া</item>
+        <item>Valley \n উপত্যকা</item>
+        <item>Interminable \n অন্তহীন</item>
+        <item>Easygoing \n সহজে মেনে নেয়া</item>
+        <item>Indictment \n অভিযোগ</item>
+        <item>Tirade \n তিরস্কারপূর্ণ দীর্ঘ বক্তৃতা</item>
+        <item>Taciturn \n স্বল্পভাষী</item>
+        <item>Placatory \n আপোস</item>
+        <item>Espy \n পর্যবেক্ষণ করা</item>
+        <item>Cogitate \n বুঝতে পারা</item>
+        <item>Attribute \n আরোপ করা</item>
+        <item>Reassurance \n পুনরায় নিশ্চিত করা</item>
+        <item>Fiasco \n বড় ধরনের ব্যর্থতা</item>
+        <item>Fruitful \n ফলপ্রসূ</item>
+        <item>Triumph \n বিজয়</item>
+        <item>Adopted \n গ্রহণ করা</item>
+        <item>Forsaken \n পরিত্যক্ত করা</item>
+        <item>Discarded \n বাদ দেয়া</item>
+        <item>Vociferous \n শব্দবহুল</item>
+        <item>Courageous \n সাহসী</item>
+        <item>Mockery \n উপহাস</item>
+        <item>Mean \n নীচ</item>
+        <item>Negotiation \n আলাপালোচনা</item>
+        <item>Shallow \n ভাসাভাসা</item>
+        <item>Excessive \n অতিরিক্ত</item>
+        <item>Brittle \n ভঙ্গুর</item>
+        <item>Negligible \n অবহেলার যোগ্য</item>
+        <item>Uninfluenced \n প্রভাবমুক্ত</item>
+        <item>Thorough \n পুঙ্খানুপুঙ্খ</item>
+        <item>Imprison \n শৃঙ্খলাবদ্ধ করা</item>
+        <item>Expel \n বহিষ্কার করা</item>
+        <item>Acquit \n অভিযোগ হতে মুক্তি দেয়া</item>
+        <item>Mild \n হালকা, কোমল</item>
+        <item>Artistic \n শৈল্পিক</item>
+        <item>Shortcoming \n ত্রুটি, সীমাবদ্ধতা</item>
+        <item>Extravagance \n অমিতব্যয়ি</item>
+        <item>Enduring \n স্থায়ী</item>
+        <item>Ball to the wall \n পুরোদমে</item>
+        <item>Pitfall \n ফাঁদ</item>
+        <item>Toppling \n ডিগবাজি খাইয়ে পড়া</item>
+        <item>Regime \n শাসন</item>
+        <item>Tantamount \n সমপরিমাণ</item>
+        <item>Arbitrary \n বিধিবহির্ভূত</item>
+        <item>Worship \n পূজা</item>
+        <item>Bibliography \n গ্রন্থপুঞ্জি</item>
+        <item>Amicable person \n বন্ধুভাবাপন্ন</item>
+        <item>Naive \n সাধাসিধা</item>
+        <item>Lenient \n দয়ামায়া প্রবণ</item>
+        <item>Adamant \n একগুঁয়ে</item>
+        <item>Exaggeration \n বাড়িয়ে বলা</item>
+        <item>Predominance \n আধিপত্য</item>
+        <item>Subordination \n অধীনস্থ</item>
+        <item>Odds and ends \n ছোটখাট জিনিস</item>
+        <item>Exhausted \n নিঃশেষ হওয়া</item>
+        <item>Dead and buried \n পুরোপুরি থেমে যাওয়া</item>
+        <item>At bottom \n প্রকৃতপক্ষে</item>
+        <item>Offended \n বিক্ষুব্ধ</item>
+        <item>Cut and dried \n রুক্ষ</item>
+        <item>Dealings \n আচরণ</item>
+        <item>Above board \n অকপট ,খোলাখুলি</item>
+        <item>Soothe \n প্রশমিত করা, কমানো</item>
+        <item>Grant \n অনুদান</item>
+        <item>Frown \n তিরস্কার করা</item>
+        <item>Regret \n অনুশোচনা করা</item>
+        <item>Head and Ears \n পুরোপুরি</item>
+        <item>Eat into vitals \n ছিন্ন করা,ব্যাঘাত করা</item>
+        <item>Square meal \n সুষম খাদ্য</item>
+        <item>Rank and file \n সাধারণ জনগণ</item>
+        <item>Plainness \n সরলতা</item>
+        <item>Adequacy \n সাদৃশ্য</item>
+        <item>Drowsiness \n আলস্য</item>
+        <item>Vigor \n শারীরিক বা মানসিক শক্তি</item>
+        <item>Identical \n সমজাতীয়</item>
+        <item>Ameliorate \n প্রশমিত করা</item>
+        <item>Exacerbate \n শোচনীয় হওয়া</item>
+        <item>Inquisitive \n সন্ধানী</item>
+        <item>Proximate \n নিকটতম</item>
+        <item>Idyllic \n শান্ত</item>
+        <item>Ruminative \n চিন্তানিমগ্ন</item>
+        <item>Rapport \n ঘনিষ্ট সম্পর্ক</item>
+        <item>Suffrage \n ভোটাধিকার</item>
+        <item>Dearth \n স্বল্পতা</item>
+        <item>Amass \n পুঞ্জীভূত করা</item>
+        <item>Accrue \n বৃদ্ধি</item>
+        <item>Disperse \n ছত্রভঙ্গ</item>
+        <item>Plenty \n প্রচুর</item>
+        <item>Lively \n প্রশান্ত, সজীব</item>
+        <item>Squalor \n নোংরা</item>
+        <item>Pressurizing \n চাপ প্রয়োগ</item>
+        <item>Arouse \n জাগ্রত করা</item>
+        <item>Urgency \n জরুরী</item>
+        <item>Trustworthy \n বিশ্বস্ত</item>
+        <item>Gratitude \n কৃতজ্ঞবোধ</item>
+        <item>Thankless \n অকৃতজ্ঞ</item>
+        <item>Indebted \n কৃতজ্ঞ</item>
+        <item>Owe \n ঋণী থাকা</item>
+        <item>Ingest \n গলাধঃকরণ করা</item>
+        <item>Inertia \n জড়তা</item>
+        <item>Inadvertent \n অনিচ্ছাকৃত</item>
+        <item>Inundate \n প্লাবিত হওয়া</item>
+        <item>Trapped \n আটকা পরা</item>
+        <item>Coherent \n সুসজ্জিত, যৌক্তিত</item>
+        <item>Amity \n মিত্রতা</item>
+        <item>Vague \n অস্পষ্ট</item>
+        <item>Vocation \n বৃত্তি, ব্যবসায়</item>
+        <item>Vital \n অত্যাবশ্যক, সজীব</item>
+        <item>Faculty \n অনুষদ, কর্মদক্ষতা</item>
+        <item>Vehemently \n তীব্রভাবে</item>
+        <item>Fussy \n অতিসতর্ক</item>
+        <item>Titanic \n বিশাল</item>
+        <item>Alienation \n বিচ্ছেদ, বিচ্ছিন্নতা</item>
+        <item>Worthy of \n যোগ্য</item>
+        <item>Emulation \n অনুকরণীয়</item>
+        <item>Exploration \n অনুসন্ধান</item>
+        <item>Trial \n চেষ্টা</item>
+        <item>Demise \n মৃত্যু</item>
+        <item>Unimaginable \n অকল্পনীয়</item>
+        <item>Inexplicable \n বর্ণনাতীত</item>
+        <item>Entertain \n আপ্যায়ন</item>
+        <item>Enamoured \n প্রেমমুগ্ধ</item>
+        <item>Possessed \n অধিকারী</item>
+        <item>Fanciful schemes \n কাল্পনিক পরিকল্পনা</item>
+        <item>Unforeseen \n অপ্রত্যাশিত</item>
+        <item>Initiate \n সূচনা করা</item>
+        <item>Blaze \n আলোকচ্ছটা</item>
+        <item>Horn \n শিঙা</item>
+        <item>Visionary \n কাল্পনিক</item>
+        <item>Newborn \n নবজাত</item>
+        <item>Treatise \n গবেষণামূলক গ্রন্থ</item>
+        <item>Chronic \n নিয়মিত ঘটা</item>
+        <item>Impute \n আরোপ করা</item>
+        <item>Honorary \n বিনাবেতনে</item>
+        <item>Interpret \n ব্যাখ্যা করা</item>
+        <item>Memento \n স্মারকচিহ্ন, অভিজ্ঞ</item>
+        <item>Elegy \n বিষাদসঙ্গীত</item>
+        <item>Cosmos \n নিসর্গ</item>
+        <item>Duffer \n নির্বোধ লোক</item>
+        <item>Snob \n উন্নাসিক লোক</item>
+        <item>Licentious \n দুশ্চরিত্র লোক</item>
+        <item>Suspect \n সন্দেহভাজন</item>
+        <item>Trick, Deceit \n প্রতারনা</item>
+        <item>Hazardous \n বিপজ্জনক</item>
+        <item>Represent \n চিত্রিত করা</item>
+        <item>Superior \n শ্রেষ্ঠ</item>
+        <item>Revealing \n প্রকাশ করা</item>
+        <item>Complexity \n জটিলতা</item>
+        <item>Vigilant \n সজাগ</item>
+        <item>Diversion \n গতিপরিবর্তন, অপসারণ</item>
+        <item>Holocaust \n ব্যাপক হত্যাকাণ্ড</item>
+        <item>Nugatory \n বাদ দেয়া</item>
+        <item>Judiciary \n আইন বিভাগ</item>
+        <item>Jurisdiction \n আইনগত অধিকার</item>
+        <item>Famish \n প্রচন্ড ক্ষুধা</item>
+        <item>Keen \n তীব্র</item>
+        <item>Amenable \n ব্ন্ধুভাবাপন্ন</item>
+        <item>Covenant \n আইনসম্মত চুক্তিপত্র</item>
+        <item>Summons \n ডেকে পাঠানো</item>
+        <item>Subpoena \n আদালতে ডাকা</item>
+        <item>Tract \n ধর্ম বিষয়ে পুস্তিকা</item>
+        <item>Skinflint \n মিতব্যয়ী, কিপটে</item>
+        <item>Sage \n জ্ঞানী</item>
+        <item>Ninny \n বোকা জাতীয়</item>
+        <item>Pretty Penny \n অত্যন্ত ব্যয় বহুল</item>
+        <item>On their toes \n সজাগ সতর্ক হওয়া</item>
+        <item>Toot your own horn \n গর্ব</item>
+        <item>Destruction \n ধ্বংস</item>
+        <item>Intimacy \n গভীর সুসম্পর্ক</item>
+        <item>Alluring \n লোভনীয়</item>
+        <item>Arouse \n জাগানো</item>
+        <item>Tenacity \n জিদ</item>
+        <item>Elusiveness \n বুঝতে কষ্টকর এমন</item>
+        <item>Adornment \n অলংকরণ</item>
+        <item>Anonymous \n নামহীন, বেনামী</item>
+        <item>Namesake \n মিতা</item>
+        <item>Pseudonym \n ছদ্মনাম</item>
+        <item>Cannibal \n নরখাদক</item>
+        <item>Circulation \n প্রচার, প্রচলন</item>
+        <item>Surreal \n পরাবাস্তব</item>
+        <item>Appeal \n আবেদন</item>
+        <item>Repression \n দমন, নিপীড়ন</item>
+        <item>Greeting \n অভিবাদন</item>
+        <item>Ominous \n ভয়ংকর</item>
+        <item>Robbery \n ডাকাতি</item>
+        <item>Cursory \n দ্রুত নিষ্পন্ন</item>
+        <item>Demur \n আপত্তি</item>
+        <item>Convicted \n দোষী, অপরাধী</item>
+        <item>Culpable \n শাস্তি পাবার যোগ্য</item>
+        <item>Pay off old scores \n প্রতিশোধ নেয়া</item>
+        <item>Worth yours \n দক্ষ</item>
+        <item>Host in himself \n আয়োজক</item>
+        <item>Pusillanimous \n ভীতু</item>
+        <item>Spunky \n সাহসী</item>
+        <item>Scold \n তিরস্কার করা</item>
+        <item>Bustling \n হৈ চৈ পূর্ণ</item>
+        <item>Tranquil \n শান্ত</item>
+        <item>Prodigal \n বেহিসাবী ভাবে ব্যয় করা</item>
+        <item>To drive off \n পরিহার করা</item>
+        <item>Hastening \n দ্রুত চলা</item>
+        <item>Braking \n গতিরোধ</item>
+        <item>Slackening \n ঝিমুনি</item>
+        <item>Vigorous \n সবল</item>
+        <item>Sluggish \n আলস্যপরায়ণ, কুড়ে</item>
+        <item>Infuriate \n ক্রোধে ক্ষিপ্ত হওয়া</item>
+        <item>Commend \n প্রশংসা করা</item>
+        <item>Manifest \n স্পষ্ট</item>
+        <item>Destitute \n দরিদ্র</item>
+        <item>Teller \n ব্যাংকের ক্যাশিয়ার</item>
+        <item>Intense \n তীব্র</item>
+        <item>Abrasive \n ঘর্ষণের মাধ্যমে তুলে ফেলা</item>
+        <item>Attempts \n চেষ্টা করা</item>
+        <item>Screams \n আর্তনাদ করা</item>
+        <item>Admits \n স্বীকার করা</item>
+        <item>Lucrative \n লাভজনক</item>
+        <item>Ridiculous \n হাস্যকর</item>
+        <item>Continuation \n ধারাবাহিকতা</item>
+        <item>Offshore \n সাগরমুখী</item>
+        <item>Solemn \n আনুষ্ঠানিক</item>
+        <item>Wholesale \n পাইকারী</item>
+        <item>Retail \n খুচরা</item>
+        <item>Push sale \n জোর করে বিক্রি করা</item>
+        <item>Slothful \n নিষ্ক্রিয়</item>
+        <item>Quarrelsome \n ঝগড়াটে</item>
+        <item>Flat out \n সোজা</item>
+        <item>Backtrack \n প্রত্যাখ্যান করা</item>
+        <item>Curved \n বক্ররেখা</item>
+        <item>Persevering \n পরিশ্রমী</item>
+        <item>Impetus \n আবেগ,প্রেরণা</item>
+        <item>Repugnance \n প্রতিক্রিয়া</item>
+        <item>Fleeting \n ক্ষনস্থায়ী</item>
+        <item>Limpid \n স্পষ্ট</item>
+        <item>Evident \n স্পষ্ট</item>
+        <item>Subtlety \n অস্পষ্ট</item>
+        <item>Prima facie \n প্রথম দর্শনে</item>
+        <item>Trickery \n প্রতারনা</item>
+        <item>Simplicity \n সরল</item>
+        <item>Applause \n সাধুবাদ</item>
+        <item>Impinge \n আঘাত হানা</item>
+        <item>Facilitate \n সহজতর</item>
+        <item>Trespass \n পাপ, সীমালঙ্গন</item>
+        <item>Profligate \n লম্পট</item>
+        <item>Intermittent \n অনিয়মিতভাবে</item>
+        <item>Broker \n দালাল</item>
+        <item>Merchant prince \n মহা ধনবান বণিক</item>
+        <item>Persistent \n নাছোড়বান্দা</item>
+        <item>Assert \n দৃঢ়ভাবে কোন কিছু বলা</item>
+        <item>Deny \n অস্বীকার করা</item>
+        <item>Panic \n ভয় পাওয়া</item>
+        <item>Desert \n ছেড়ে যাওয়া</item>
+        <item>Waive \n মওকুফ করা</item>
+        <item>Evenhanded \n নিরপেক্ষ</item>
+        <item>Enunciate \n উচ্চারন করা</item>
+        <item>Consolidation \n ঐক্যবদ্ধ</item>
+        <item>Instigation \nউত্তেজনা</item>
+        <item>Provocation \n প্ররোচনা</item>
+        <item>proportionate \n আনুপাতিক</item>
+        <item>Scanty \n স্বল্প</item>
+        <item>Malign \n ক্ষতিকর</item>
+        <item>Divine \n স্বর্গীয়</item>
+        <item>Prompt \n দ্রুত</item>
+        <item>Wrath \n রাগ</item>
+        <item>Conceited \n আত্মভিমানী</item>
+        <item>Hasty \n দ্রুতগতি</item>
+        <item>Inconsiderate \n অবিবেচক</item>
+        <item>Indispensable \n অপরিহার্য</item>
+        <item>Bigot \n অন্ধ বিশ্বাসী</item>
+        <item>Parsimonious \n মিতব্যয়ী</item>
+        <item>Transmission \n ছড়ানো, প্রচার</item>
+        <item>Decay \n ক্ষয় হওয়া</item>
+        <item>Barrier \n বাঁধা</item>
+        <item>Discontented \n অসন্তুষ্ট, অতৃপ্ত</item>
+        <item>Miserable \n শোচনীয়</item>
+        <item>Myopic \n ক্ষীনদৃষ্টি</item>
+        <item>Intolerant \n অসহনীয়</item>
+        <item>Friction \n বিরোধ</item>
+        <item>Argument \n বিতর্ক</item>
+        <item>Counterfeit \n ভেজাল, কৃত্রিম</item>
+        <item>Shaky \n দুর্বল</item>
+        <item>Expedite \n অগ্রগতি ত্বরান্বিত করা</item>
+        <item>Impede \n ব্যাহত করা</item>
+        <item>Languor \n অলস</item>
+        <item>Lukewarm \n উদাসীন</item>
+        <item>Rush \n দ্রুত ধাবন</item>
+        <item>Hexagon \n ষড়ভূজ</item>
+        <item>Subtraction \n বিয়োগ</item>
+        <item>Fathom \n গভীরতা নির্ণয় করা</item>
+        <item>Hypocrite \n ভন্ড</item>
+        <item>Reparation \n ক্ষতিপূরণ</item>
+        <item>Potty \n তুচ্ছ</item>
+        <item>Conventional \n প্রচলিত</item>
+        <item>Unstable n অস্থির</item>
+        <item>Ancillary \n আনুষঙ্গিক</item>
+        <item>proportionate \nআনুপাতিক</item>
+        <item>Scanty \n স্বল্প</item>
+        <item>Malign \n ক্ষতিকর</item>
+        <item>Martinet \n নিয়মনিষ্ঠ</item>
+        <item>Dictator \n একনায়ক</item>
+        <item>Demagogue \n জননেতা</item>
+        <item>Statesman \n কূটনীতিজ্ঞ ব্যক্তি</item>
+        <item>Utopia \n কল্পরাজ্য</item>
+        <item>Elegy \n শোকগাঁথা</item>
+        <item>Concubine \n উপস্ত্রী</item>
+        <item>Writ \n কোর্টের লিখিত অর্ডার</item>
+        <item>Rite \n রীতিনীতি,প্রথা</item>
+        <item>Monotonous \n একঘেয়ে</item>
+        <item>Extol \n প্রশংসা</item>
+        <item>Cosmopolitan \n সার্বজনীন</item>
+        <item>Provincial \n সীমাবদ্ধ</item>
+        <item>Gloomy \n অন্ধকারাচ্ছন্ন</item>
+        <item>Yield \n বশ্যতা স্বীকার করা</item>
+        <item>leaning \n ঝোঁক</item>
+        <item>Build in \n অন্তর্গত</item>
+        <item>Axle \n অক্ষ</item>
+        <item>Laid back \n অলস</item>
+        <item>Inflated \n অত্যধিক</item>
+        <item>Reasonable \n যৌক্তিক</item>
+        <item>Ingenuous \n অকপট</item>
+        <item>Sophisticated \n কৃত্রিম</item>
+        <item>Exorbitant \n অতিরিক্ত</item>
+        <item>Devious \n আঁকাবাঁকা</item>
+        <item>Cunning \n দক্ষ</item>
+        <item>Debacle \n মহাবিপর্যয়</item>
+        <item>Friction \n বিরোধ</item>
+        <item>Corroborate \n দৃঢ় করা</item>
+        <item>Refute \n যুক্তি</item>
+        <item>Contradict \n অস্বীকার করা</item>
+        <item>Contravene \n আইন বা রীতি লংঘন করা</item>
+        <item>Profane \n অপবিত্র করা</item>
+        <item>Vulgarity \n অশ্লীলতা</item>
+        <item>Compensate \n ক্ষতিপূরন দেয়া</item>
+        <item>Deprecate \n নিন্দা করা</item>
+        <item>Enhance \n বৃদ্ধি করা</item>
+        <item>Bait \n টোপ</item>
+        <item>Disparage \n কাউকে তুচ্ছ করা</item>
+        <item>Heckle \n প্রশ্নবানে জর্জরিত করা</item>
+        <item>Adequate \n পর্যাপ্ত</item>
+        <item>Muddle \n বিহ্বলতা</item>
+        <item>Abatement \n কমানো</item>
+        <item>Incapacitate \n অযোগ্য করা</item>
+        <item>Hook \n ফাঁদ</item>
+        <item>Crook \n বাঁকা</item>
+        <item>Stout \n শক্তিশালী, নির্ভীক</item>
+        <item>Prejudiced \n পক্ষপাতী</item>
+        <item>Knotty \n ঝামেলাযুক্ত</item>
+        <item>A bone to pick \n রাগান্বিত হওয়া</item>
+        <item>Urban \n শহুরে</item>
+        <item>Reclusive \n সন্ন্যাসী</item>
+        <item>Compile \n একত্র করা</item>
+        <item>Darken \n অন্ধকার করা</item>
+        <item>Abolish \n বিলুপ্তকরা</item>
+        <item>Segregate \n পৃথক করা</item>
+        <item>Abstinent \n সংযমী</item>
+        <item>Bleak \n নিরানন্দ, মলিন</item>
+        <item>Easygoing \n বাধ্য</item>
+        <item>Wayward \n স্বেচ্ছাচারী</item>
+        <item>Intractable \n অবাধ্য</item>
+        <item>Capacious \n সুপ্রশস্ত</item>
+        <item>Vicious \n ঘৃণ্য</item>
+        <item>Hidebound \n সংকীর্ণমনা</item>
+        <item>Evaluate \n মূল্যায়ন করা</item>
+        <item>Errant \n ভ্রমণরত</item>
+        <item>Bucolic \n গ্রাম্য</item>
+        <item>Castigate \n নিন্দা করা</item>
+        <item>Exult \n অত্যন্ত আনন্দিত</item>
+        <item>Jubilate \n আনন্দ করা</item>
+        <item>Imprudent \n অবিবেচক</item>
+        <item>Sagacity \n প্রখর জ্ঞান</item>
+        <item>Reverential \n শ্রদ্ধামিশ্রিত</item>
+        <item>Redundant \n বাড়তি, অনাবশ্যক</item>
+        <item>Incautious \n অবিবেচক</item>
+        <item>Synopsis \n সারাংশ</item>
+        <item>Encumber \n পথরোধ করা</item>
+        <item>Recapitulate \n আলোচনা করা</item>
+        <item>Gourmet \n ভোজন রসিক ব্যক্তি</item>
+        <item>Omnipotent \n সর্বশক্তিমান(আল্লাহ)</item>
+        <item>Asylum \n আশ্রয়, নিরপত্তা</item>
+        <item>Sanatorium \n স্বাস্থ্যনিবাস</item>
+        <item>Impostor \n ভন্ড</item>
+        <item>Acrimonious \n তিক্ত</item>
+        <item>Severe \n মারাত্মক</item>
+        <item>Cursive \n টানা টানা হাতের লেখা</item>
+        <item>Anomalous \n ব্যতিক্রম</item>
+        <item>Erratic \n ত্রুটিপূর্ণ, উল্টাপাল্টা</item>
+        <item>Dismay \n আতঙ্কিত করা</item>
+        <item>Dearth \n অভাব</item>
+        <item>Abundance \n আধিক্য</item>
+        <item>Superannuate \n বয়স উত্তীর্ন</item>
+        <item>Innate \n সহজাত</item>
+        <item>Solace \n সান্ত্বনা</item>
+        <item>Engross \n সবসময় কাজে লেগে থাকা</item>
+        <item>Garrulous \n বাচাল</item>
+        <item>Punctilious \n খুঁটিনাটি ব্যাপার</item>
+        <item>Observant \n দৃষ্টিশীল, মনোযোগী</item>
+        <item>Buried \n সমাহিত</item>
+        <item>Tender \n কোমল, পেশা</item>
+        <item>Preamble \n প্রস্তাবনা</item>
+        <item>Commencement \n শুরু</item>
+        <item>Preface \n প্রস্তাবনা</item>
+        <item>Postscript \n অতিরিক্ত</item>
+        <item>Sycophancy \n তোষামুদি</item>
+        <item>Escape \n পালিয়ে যাওয়া</item>
+        <item>Abscond \n আত্মগোপন করা</item>
+        <item>Eternal \n চিরন্তন</item>
+        <item>Barren \n অনুর্বর</item>
+        <item>Melancholy \n দুঃখ</item>
+        <item>Scenic \n দৃশ্যময়</item>
+        <item>Epitome \n সংক্ষিপ্ত</item>
+        <item>Epithet \n ডাকনাম, উপাধি</item>
+        <item>Epitaph \n সমাধিস্তম্ভ লিপি</item>
+        <item>Inscribe \n অন্তর্লিখিত</item>
+        <item>Fade \n বিবর্ণ হওয়া</item>
+        <item>Trivial \n নগণ্য, তুচ্ছ</item>
+        <item>Skepticism \n সংশয়বাদ</item>
+        <item>Compliance \n সম্মতি, প্রতিপালন</item>
+        <item>Unruly \n অবাধ্য</item>
+        <item>Feeble \n দুর্বল</item>
+        <item>Untamed \n অশান্ত, বন্য</item>
+        <item>Mild \n শান্ত</item>
+        <item>Glow \n খুশিতে ঝলমল করা</item>
+        <item>Harmony \n সাদৃশ্য</item>
+        <item>Conviction \n দৃঢ় বিশ্বাস</item>
+        <item>Audacity \n দুঃসাহস</item>
+        <item>Plausibility \n বিশ্বাসযোগ্যতা</item>
+        <item>Dispatch \n কোন কিছু পাঠানো</item>
+        <item>Conger \n সামুদ্রিক বানমাছ</item>
+        <item>Complacency \n আত্মতৃপ্তি</item>
+        <item>Breakable \n ভঙ্গুর</item>
+        <item>Tough, Rigid \n শক্ত</item>
+        <item>Obese \n মোটা, স্থূলকায়</item>
+        <item>Flexible \n নমনীয়</item>
+        <item>Tomb \n কবর</item>
+        <item>Wallet \n মানি ব্যাগ</item>
+        <item>Brevity \n সংক্ষিপ্ত ভাবে</item>
+        <item>In deep water \n বিপদে থাকা</item>
+        <item>Adverse \n প্রতিকূল</item>
+        <item>Hostile \n প্রতিকূল</item>
+        <item>Postulate \n স্বীকার্য</item>
+        <item>Invisible \n অদৃশ্য</item>
+        <item>Inevitable \n অনিবার্য</item>
+        <item>Inaudible \n যা শোনা যায় না</item>
+        <item>Irresistible \n অপ্রতিরোধ্য</item>
+        <item>Unearth \n প্রকাশ করা</item>
+        <item>Unintended \n অনিচ্ছাকৃত</item>
+        <item>Flashy \n লোক দেখানো</item>
+        <item>Curious \n অদ্ভুত</item>
+        <item>Benevolent \n হিতৈষী</item>
+        <item>Conciliate \n শান্ত করা</item>
+        <item>Conceal \n গোপন করা</item>
+        <item>Disgraceful \n বাজে, অসুন্দর</item>
+        <item>Glorious \n জমকালো</item>
+        <item>Gracious \n সদয়</item>
+        <item>Gratifying \n তৃপ্তিদায়ক</item>
+        <item>Accidental \n আকষ্মিক</item>
+        <item>Deliberately \n ইচ্ছাকৃতভাবে</item>
+        <item>Relevant \n প্রাসঙ্গিক</item>
+        <item>Transient \n অস্থায়ী</item>
+        <item>Barter \n বিনিময় করা</item>
+        <item>Composite \n যৌগিক</item>
+        <item>Multiple \n বহুবিধ</item>
+        <item>Perplex \n জটিল করা</item>
+        <item>Confound \n বিভ্রান্ত করা</item>
+        <item>Expound \n ব্যাখ্যা করা</item>
+        <item>Doctrine \n মতবাদ</item>
+        <item>Velocity \n বেগ</item>
+        <item>Enlarge \n দীর্ঘায়িত করা</item>
+        <item>Shrink \n সংকুচিত করা</item>
+        <item>Slip \n পলায়ন</item>
+        <item>Pact \n চুক্তি</item>
+        <item>Expand \n বিস্তৃত করা</item>
+        <item>Repercussion \n প্রতিক্রিয়া</item>
+        <item>Aftermath \n পরিণাম, ফলাফল</item>
+        <item>Influence \n প্রভাব</item>
+        <item>Scatter \n ছড়িয়ে যাওয়া</item>
+        <item>Accumulate \n একত্রিত করা</item>
+        <item>Tentative \n অনিশ্চিত</item>
+        <item>Hyperbolic \n অতিরঞ্জিত করে বলা</item>
+        <item>Argumentative \n তর্ক বিতর্ক</item>
+        <item>Reasoning \n যুক্তিতর্ক</item>
+        <item>Astute \n জ্ঞানী, বিচক্ষণ</item>
+        <item>Cogent \n প্রবল, অকাট্য</item>
+        <item>Deceived \n প্রতারিত হওয়া</item>
+        <item>Coherent \n সামঞ্জস্যপূর্ণ</item>
+        <item>Ailment \n ছোট খাটো অসুস্থতা</item>
+        <item>Evasive \n ধরা যায়না এমন</item>
+        <item>Elusive \n এড়িয়ে যায় এমন</item>
+        <item>Recuperative \n আরোগ্য হয় এমন</item>
+        <item>Depart \n স্থান ত্যাগ করা</item>
+        <item>Recidivist \n অপরাধপ্রবণ</item>
+        <item>Precise \n সংক্ষিপ্ত করা</item>
+        <item>Hypothetical \n প্রকল্পিত</item>
+        <item>Defensible \n টিকানো</item>
+        <item>Inauspicious \n অশুভ, অকল্যাণসূচক</item>
+        <item>Harbinger \n অগ্রদূত</item>
+        <item>Assiduous \n অধ্যবসায়ী</item>
+        <item>Indigent \n অত্যন্ত গরীব</item>
+        <item>Pensive \n চিন্তানিমগ্ন</item>
+        <item>Plethora \n আধিক্য, প্রচুর পরিমাণ</item>
+        <item>Despair \n হতাশ</item>
+        <item>Aversion \n অনিহা</item>
+        <item>Scarcity \n স্বল্প</item>
+        <item>Put up with \n সহ্য করা</item>
+        <item>Overt \n প্রকাশ্য</item>
+        <item>Erratic \n ত্রুটিপূর্ণ</item>
+    </string-array>
+</resources>
